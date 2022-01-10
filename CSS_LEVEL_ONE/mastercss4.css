@@ -1,0 +1,15 @@
+/*  id ---> class ----> general selector will exhibit */
+
+
+
+li{
+    color: red;
+}
+
+.topitems{
+    color: blue;
+}
+
+#two{
+    border: 3px solid black;
+}

@@ -1,0 +1,35 @@
+
+/* This is the syntax for a regular css */
+
+/* Selected tag{
+    property: value;
+} */
+
+
+/* This is color with word */
+h1{
+    color: blue;
+}
+
+
+/* This is using rgb value */
+
+
+li{
+    color: rgb(255, 97, 0);
+}
+
+/*  This is using hex code for color */
+
+p{
+
+    color: #0895a8;
+
+}
+
+/* This is using rgba   ---> a means transperancy 0 /1   */
+
+h4{
+
+    color: rgba(255, 97, 0, 1);
+}

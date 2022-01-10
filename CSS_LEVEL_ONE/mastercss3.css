@@ -1,0 +1,45 @@
+/* All divs will be having red texts */
+div{
+    color: red;
+}
+
+/*  Classes can be used to attach to multiple elements --> Grouping factor! */
+
+.firstDIV{
+    color: blue;
+}
+
+.secondDIV{
+    color: yellow;
+}
+
+/* id uses # to asssign values to a specific single element
+id's need to be unique */
+
+#singleid{
+    color: green;
+    text-decoration: line-through;
+}
+
+/* Asterilk can be used to give every element a new property if called */
+
+/* 
+*{
+
+}
+*/
+
+/* Adjacent siblings! element immeditely after the first element reffered  EG:-*/
+h3 + ul{
+    border: 4px dotted purple;
+}
+
+/* Elements inside a list ---> eg:-  */
+li a{
+    color: red;
+}
+
+li a[href="www.npr.org"]{
+    color: blue;
+    border: 5px solid orange;
+}
