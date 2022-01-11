@@ -1,0 +1,32 @@
+h2{
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+}
+.n{
+    margin: auto;
+}
+td{
+    height: 200px;
+    width: 100px;
+    border: 6px solid white;
+}
+
+#q{
+    background-color: #C4D6B0;
+}
+
+#w{
+    background-color: #477998;
+}
+
+#e{
+    background-color: #291F1E;
+}
+
+#r{
+    background-color: #F64740;
+}
+
+#t{
+    background-color: #A3333D;
+}
